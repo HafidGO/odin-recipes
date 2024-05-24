@@ -1,0 +1,24 @@
+#mainDiv{
+    height: 500px;
+    width: auto;
+    margin: 300px auto auto;
+}
+
+#recipes{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+}
+
+#recipes,
+#ul-recipes{
+    text-align: center;
+    border: 1px solid black;
+    width: auto;
+    padding: 0;
+
+}
+
+/* li{
+    list-style-type: none;
+} */

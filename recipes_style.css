@@ -1,0 +1,16 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#recipe_title{
+    text-align: center;
+}
+
+.food_images{
+display: block;
+margin: 0 auto;
+}
+
+li{
+    list-style-type: none;
+}
